@@ -1,3 +1,3 @@
-## Clouds and Mouses
+# Clouds and Mouses
 
 Landing page for Clouds and Mouses.
